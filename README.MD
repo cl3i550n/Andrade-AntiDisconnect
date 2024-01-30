@@ -1,6 +1,6 @@
 # Internet Connectivity Control Feature
 
-<div style="position:relative; width:100%; height:0px; padding-bottom:56.250%"><iframe allow="fullscreen" allowfullscreen height="100%" src="https://streamable.com/e/zplqmx?loop=0&muted=1" width="100%" style="border:none; width:100%; height:100%; position:absolute; left:0px; top:0px; overflow:hidden;"></iframe></div>
+[![Watch the video](https://i.ibb.co/qY8R7Yr/Captura-de-tela-2024-01-30-130342.png)](https://streamable.com/zplqmx)
 
 ## Overview
 
