@@ -1,0 +1,64 @@
+@font-face {
+    font-family: MadeBlack;
+    font-weight: bold;
+    src: url("fonts/made_black.otf") format("opentype");
+}
+
+@font-face {
+    font-family: MadeRegular;
+    src: url("fonts/made_regular.otf") format("opentype");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    z-index: 999999;
+}
+
+body {
+    font-family: "MadeRegular";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+#displayNui {
+    width: 50vw;
+    height: 60vh;
+    border-radius: 1vw;
+    background: rgba(0, 0, 0, 0.4);
+    display: none;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+#displayNui img {
+    width: 10vw;
+}
+
+#displayNui h1 {
+    font-family: MadeBlack;
+    font-style: italic;
+    color: #fff;
+    font-size: 2vw;
+}
+
+#displayNui .bolinha {
+    width: 0.6vw;
+    margin-top: .5vw;
+}
+
+#displayNui p {
+    color: #f1f1f1;
+    font-size: .8vw;
+    margin-top: .5vw;
+}
+
+#displayNui .last-text {
+    margin-top: 5.0vw;
+}
