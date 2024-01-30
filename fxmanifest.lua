@@ -15,3 +15,7 @@ files {
 	"nui/fonts/made_black.otf",
 	"nui/fonts/made_regular.otf"
 }
+
+author '<4NDR4D3/>'
+description 'Andrade-AntiDisconnect | Join https://discord.gg/fBAQTBRvat'
+version '1.0.0'
