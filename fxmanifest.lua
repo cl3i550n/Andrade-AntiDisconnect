@@ -16,6 +16,11 @@ files {
 	"nui/fonts/made_regular.otf"
 }
 
+dependencies {
+	'vorp_core',
+	'vorp_inventory'
+}
+
 author '<4NDR4D3/>'
 description 'Andrade-AntiDisconnect | Join https://discord.gg/fBAQTBRvat'
 version '1.0.0'
